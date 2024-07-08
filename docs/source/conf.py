@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'add'
+project = 'test'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
